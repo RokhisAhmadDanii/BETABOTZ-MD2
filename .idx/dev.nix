@@ -10,6 +10,7 @@
     pkgs.neofetch
     pkgs.jellyfin-ffmpeg
     pkgs.imagemagick
+    pkgs.git
     pkgs.libwebp
     pkgs.bash
     pkgs.pm2
