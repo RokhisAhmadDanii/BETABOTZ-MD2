@@ -9,6 +9,8 @@
     pkgs.nodejs_18
     pkgs.neofetch
     pkgs.jellyfin-ffmpeg
+    pkgs.python39
+    pkgs.wget
     pkgs.imagemagick
     pkgs.git
     pkgs.libwebp
